@@ -3,7 +3,7 @@ This repository contains a sample explaining how to customize Checkbox appearanc
 
 **Customize Checkbox Appearance for Different States in .NET MAUI**
 
-you can customize the visual states of a CheckBox using the VisualStateManager to control its appearance in different states, such as Normal,NormalNull,Hover,HoverNull,Pressed,PressedNull,Disabled,DisabledNull state.
+you can customize the visual states of a CheckBox using the VisualStateManager to control its appearance in different states, such as Normal, NormalNull, Hover, HoverNull, Pressed, PressedNull, Disabled and DisabledNull state.
 
 The following code example illustrate how to customize the appearance of a CheckBox for different states in .NET MAUI.
 
